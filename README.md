@@ -34,7 +34,7 @@ git init
 ### Távoli repository másolása helyi mapppába
 
 ```bash
-git clone https://github.com/cloudsteak/trn-azure-pipeline.git
+git clone https://github.com/TorokJani/trn-azure-pipeline.git
 ```
 
 ### Módosított fájlok hozzáadása helyi repohoz
