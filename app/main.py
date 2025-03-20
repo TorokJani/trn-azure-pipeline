@@ -1,2 +1,4 @@
 def main(uzenet):
-  print("Ez egy példa kód Python-ban! 20250320")
+  print(uzenet)
+
+main("Ez egy példa kód Python-ban! 20250320 -)")
