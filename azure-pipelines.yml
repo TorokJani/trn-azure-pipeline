@@ -7,8 +7,8 @@ trigger:
   - demo
 
 pool:
-  name: Default
-#  vmImage: ubuntu-latest
+#  name: Default
+  vmImage: ubuntu-latest
 
 stages:
   - stage: Azure_Pipeline_Alap
